@@ -1,0 +1,8 @@
+[package]
+name = "lingua-mzansi"
+version = "0.1.0"
+authors = ["Neville Dipale <nevilledips@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lingua = { git = "https://github.com/pemistahl/lingua-rs" }
